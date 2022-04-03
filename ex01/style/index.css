@@ -1,0 +1,28 @@
+.one{
+    width: 100%;
+}
+.box{
+    width: 33.33%;
+    float: left;
+}
+
+img{  
+    width: 100%;
+}
+
+.padding{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+    color: aqua;
+}
